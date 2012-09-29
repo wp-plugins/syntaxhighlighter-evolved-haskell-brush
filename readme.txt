@@ -14,6 +14,11 @@ You should install SyntaxHighlighter Evolved first.
 
 Thanks to ArieShout(http://http://arieshout.me) for his shBrushHaskell.js.
 
+Usage:
+[hs][/hs]
+[hask][/hask]
+[haskell][/haskell]
+
 == ChangeLog ==
 
 = Version 1.0.0 =
