@@ -5,7 +5,7 @@ Requires at least: 2.7
 Tested up to: 3.4
 Stable tag: trunk
 
-Haskell Brush fot SyntaxHighlighter Evolved plugin.
+Haskell Brush for SyntaxHighlighter Evolved plugin.
 
 == Description ==
 
