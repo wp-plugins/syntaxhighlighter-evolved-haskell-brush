@@ -2,7 +2,7 @@
 Contributors: kuyur
 Tags: Haskell, SyntaxHighlight
 Requires at least: 2.7
-Tested up to: 3.4
+Tested up to: 4.2
 Stable tag: trunk
 
 Haskell Brush for SyntaxHighlighter Evolved plugin.
